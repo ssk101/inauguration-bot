@@ -1,0 +1,16 @@
+{
+   "name": "inauguration-countdown",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "author": "ssky101",
+   "dependencies": {
+      "winston": "^3.2.1"
+   },
+   "devDependencies": {
+      "cheerio": "^1.0.0-rc.5",
+      "discord.js": "^12.5.1",
+      "node-fetch": "^2.6.0",
+      "nodemon": "^2.0.2"
+   }
+}
